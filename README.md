@@ -26,7 +26,7 @@ This GitHub profile documents technical work around AI/ML systems validation, mo
 
 ## Background
 
-I have led software quality, automation, validation, and reliability efforts across regulated software, consumer electronics, cloud/SaaS platforms, networking systems, and hardware-software products.
+I lead software quality, automation, validation, and reliability efforts across regulated software, consumer electronics, cloud/SaaS platforms, networking systems, and hardware-software products.
 
 My experience includes Apple, Amazon, Broadcom, Bose, and Boston Scientific, with work across hardware-software systems, embedded platforms, connected devices, regulated environments, automation strategy, and release-quality execution.
 
